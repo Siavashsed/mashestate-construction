@@ -192,5 +192,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Asbestos and Lead Paint: The Renovation Risks That Can Land You in the ER",
+    "slug": "asbestos-lead-paint-renovation-risks",
+    "meta_description": "Before you swing a hammer in an older home, read this. Tom Mash on asbestos, lead paint, real costs, and what most homeowners get dangerously wrong.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/37827904/pexels-photo-37827904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "epa.gov",
+      "cdc.gov",
+      "asbestos.com",
+      "thelancet.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "OSHA's 2022 Heat Illness Rule Caught Most Contractors Off Guard",
+    "slug": "osha-2022-heat-illness-rule",
+    "meta_description": "OSHA's 2022 heat illness rulemaking changed jobsite obligations fast. Here's what it meant for contractors and why many weren't ready.",
+    "date": "September 16, 2022",
+    "date_iso": "2022-09-16",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/8961071/pexels-photo-8961071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "osha.gov",
+      "bls.gov",
+      "cdc.gov"
+    ],
+    "posted_iso": "2026-07-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
