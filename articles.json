@@ -230,5 +230,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Why That Oversized Furnace Is Wrecking Your Remodel Comfort",
+    "slug": "hvac-sizing-remodel-bigger-not-better",
+    "meta_description": "HVAC sizing during a remodel matters more than horsepower. Here's why a bigger furnace or AC short cycles, wastes money, and makes rooms clammy.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Tom Mash",
+    "image": "",
+    "outbound_links": [
+      "energystar.gov",
+      "energy.gov",
+      "acca.org"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Climate Law That Just Rewrote Every Renovation Budget",
+    "slug": "inflation-reduction-act-renovation-2022",
+    "meta_description": "The Inflation Reduction Act passed in August 2022. Here is what its 30 percent tax credits and heat pump rebates mean for contractors and renovations right now.",
+    "date": "March 09, 2022",
+    "date_iso": "2022-03-09",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/7167065/pexels-photo-7167065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "whitehouse.gov",
+      "energy.gov",
+      "bls.gov"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
