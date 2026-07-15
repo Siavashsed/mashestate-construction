@@ -267,5 +267,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "What a General Contractor Actually Does, and When You Can Skip One",
+    "slug": "what-general-contractor-does",
+    "meta_description": "A contractor and rental owner explains what a general contractor really does, what you pay for, and when hiring one saves you money instead of costing it.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/6285156/pexels-photo-6285156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "bls.gov",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
