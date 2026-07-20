@@ -284,5 +284,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Lumber Sat Still While My Panel Bill Doubled",
+    "slug": "material-costs-beat-labor-2025",
+    "meta_description": "Material costs are outrunning labor in 2025. A contractor breaks down where the money actually leaks, with real numbers from live jobs.",
+    "date": "July 20, 2026",
+    "date_iso": "2026-07-20",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/4483862/pexels-photo-4483862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "bls.gov",
+      "nahb.org",
+      "abc.org"
+    ],
+    "posted_iso": "2026-07-20",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The 2021 Energy Code Just Became Federal Policy, and Builders Are Furious",
+    "slug": "2021-iecc-hud-usda-2023-rule",
+    "meta_description": "HUD and USDA adopted the 2021 IECC in 2023. Here is what the energy code rule actually costs builders, and why the fight over it misses the point.",
+    "date": "August 15, 2023",
+    "date_iso": "2023-08-15",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/6473982/pexels-photo-6473982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "energycodes.gov",
+      "census.gov",
+      "nahb.org",
+      "hud.gov"
+    ],
+    "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
