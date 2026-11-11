@@ -397,6 +397,29 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:64px 0 2
 .e404-sub{font-size:15px;color:#9c8870;line-height:1.75;margin-bottom:28px}
 .e404-back{display:inline-block;background:#ea580c;color:#121212;border-radius:6px;padding:12px 28px;font-size:15px;font-weight:700;text-decoration:none;transition:opacity .2s}
 .e404-back:hover{opacity:.85}</style>
+<!-- Meta Pixel (Kavalsia network) -->
+<script>
+(function(){
+if(window.__KAVALSIA_META_LOADED)return;window.__KAVALSIA_META_LOADED=true;
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', "3117791381934109");
+var FIRE_PV=true,SITE_ID="mashestate-construction",SITE_NAME="Mashestate Construction",VIEW_EVT="Viewed Mashestate Construction",SIGNUP_EVT="Mashestate Construction NewsletterSignup",MIRROR_CAPI=false;
+var segs=location.pathname.split('/').filter(Boolean);var SLUG=segs.length?segs[segs.length-1].replace(/\.html$/,''):'home';if(SLUG==='index')SLUG='home';
+var BASE={site_id:SITE_ID,site_name:SITE_NAME,content_name:SLUG,page_path:location.pathname};
+function P(x){var o={};for(var k in BASE)o[k]=BASE[k];for(var j in x)o[j]=x[j];return o;}
+if(FIRE_PV){try{fbq('track','PageView');}catch(e){}}
+try{fbq('trackCustom',VIEW_EVT,P({page_title:document.title,referrer:document.referrer||''}));}catch(e){}
+function mirrorCAPI(evtName,payload){if(!MIRROR_CAPI)return;try{var hub=(window.KAVALSIA_HUB_URL||'').replace(/\/$/,'');if(!hub)return;fetch(hub+'/api/meta-capi',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({site_id:SITE_ID,event_name:evtName,payload:payload})}).catch(function(){});}catch(e){}}
+mirrorCAPI(VIEW_EVT,P({}));
+var MARKS=[30,60,120],fired={},acc=0,last=document.hidden?0:Date.now();
+function tick(){var now=Date.now();if(last){acc+=(now-last)/1000;}last=document.hidden?0:now;for(var i=0;i<MARKS.length;i++){var m=MARKS[i];if(!fired[m]&&acc>=m){fired[m]=1;var ev='TimeSpent'+m+'s';try{fbq('trackCustom',ev,P({seconds:m}));}catch(e){}mirrorCAPI(ev,P({seconds:m}));}}if(fired[120])clearInterval(iv);}
+var iv=setInterval(tick,1000);document.addEventListener('visibilitychange',tick);
+function sha256Hex(str){if(!window.crypto||!crypto.subtle)return Promise.resolve('');var buf=new TextEncoder().encode(String(str||'').trim().toLowerCase());return crypto.subtle.digest('SHA-256',buf).then(function(h){return Array.prototype.map.call(new Uint8Array(h),function(b){return ('00'+b.toString(16)).slice(-2);}).join('');});}
+document.addEventListener('submit',function(ev){try{var f=ev.target;if(!f||!f.tagName||f.tagName.toLowerCase()!=='form')return;var emailEl=f.querySelector('input[type=email], input[name*=email i]');if(!emailEl||!emailEl.value)return;var email=emailEl.value;sha256Hex(email).then(function(h){try{fbq('trackCustom',SIGNUP_EVT,P({email_hashed:h}));}catch(e){}mirrorCAPI(SIGNUP_EVT,P({email_hashed:h}));});}catch(e){}},true);
+})();
+</script>
+<noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=3117791381934109&ev=PageView&noscript=1"/></noscript>
+<!-- End Meta Pixel -->
 </head>
 <body data-page-depth="0">
 <div class="topbar">
@@ -412,7 +435,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:64px 0 2
   <div class="wrap nav-in">
     <a href="./" class="nav-logo">
       <span class="mark-box">
-        <svg class="mark" viewBox="0 0 32 32" fill="none"><path d="M4 28V13L16 5l12 8v15" stroke="#f5a524" stroke-width="2.6" stroke-linejoin="round"/></svg>
+        <svg class="mark" viewBox="0 0 32 32" fill="none"><path d="M4 28V13L16 5l12 8v15" stroke="#f5a524" stroke-width="2.6" stroke-linejoin="round"/><path d="M12 28v-9h8v9" stroke="#edeef0" stroke-width="2.6" stroke-linejoin="round"/></svg>
       </span>
       <span class="logo-text">
         <span>MashEstate</span>
@@ -455,7 +478,7 @@ var b=document.getElementById('e404-back');if(b)b.href=root;})();
     <div class="footer-in">
       <div>
         <div class="footer-logo">
-          <svg class="mark" viewBox="0 0 32 32" fill="none"><path d="M4 28V13L16 5l12 8v15" stroke="#f5a524" stroke-width="2.4" stroke-linejoin="round"/></svg>
+          <svg class="mark" viewBox="0 0 32 32" fill="none"><path d="M4 28V13L16 5l12 8v15" stroke="#f5a524" stroke-width="2.4" stroke-linejoin="round"/><path d="M12 28v-9h8v9" stroke="#edeef0" stroke-width="2.4" stroke-linejoin="round"/></svg>
           MashEstate <span>Construction</span>
         </div>
         <p class="footer-desc">Construction and renovation intelligence for homeowners who want to know exactly what they are getting into before they sign.</p>
@@ -517,7 +540,7 @@ var b=document.getElementById('e404-back');if(b)b.href=root;})();
       '<stop offset="0" stop-color="'+p[0]+'"/><stop offset="1" stop-color="'+p[1]+'"/></linearGradient></defs>'+
       '<rect width="400" height="200" fill="url(#g'+i+')"/>'+
       '<g stroke="rgba(245,165,36,.22)" stroke-width="1" fill="none">'+
-      '<path d="M0 150h400M0 110h400M0 70h400"/></g>'+
+      '<path d="M0 150h400M0 110h400M0 70h400"/><path d="M80 0v200M160 0v200M240 0v200M320 0v200"/></g>'+
       '<path d="M60 150V95l50-32 50 32v55" stroke="#f5a524" stroke-width="2.4" fill="none" stroke-linejoin="round"/>'+
       '<path d="M95 150v-30h30v30" stroke="rgba(237,238,240,.55)" stroke-width="2.4" fill="none"/>'+
       '<circle cx="300" cy="58" r="26" stroke="rgba(245,165,36,.4)" stroke-width="2" fill="none"/>'+
@@ -527,7 +550,7 @@ var b=document.getElementById('e404-back');if(b)b.href=root;})();
   function esc(s){var d=document.createElement('div');d.textContent=String(s==null?'':s);return d.innerHTML;}
   function emptyState(){
     grid.innerHTML='<div class="art-empty">'+
-      '<svg viewBox="0 0 24 24"><path d="M3 21V8l9-5 9 5v13" stroke-linejoin="round"/></svg>'+
+      '<svg viewBox="0 0 24 24"><path d="M3 21V8l9-5 9 5v13" stroke-linejoin="round"/><path d="M9 21v-7h6v7" stroke-linejoin="round"/></svg>'+
       '<h3>New guides are on the way</h3>'+
       '<p>Our build desk is finishing the next round of project guides. Subscribe below and we will send them the moment they publish.</p></div>';
   }
