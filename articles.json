@@ -150,7 +150,8 @@
     "posted_iso": "2026-06-08",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Finishes & Sign-Off"
   },
   {
     "title": "The 2024 DOE Appliance Efficiency Rules: What Every Contractor Needs to Know Right Now",
@@ -171,7 +172,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Contractor Vetting"
   },
   {
     "title": "Lumber Hit $1,700 Per Thousand Board Feet in 2021. Here's What Actually Happened",
@@ -191,7 +193,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Budget & Costs"
   },
   {
     "title": "Asbestos and Lead Paint: The Renovation Risks That Can Land You in the ER",
@@ -210,7 +213,8 @@
     "posted_iso": "2026-07-01",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Contractor Vetting"
   },
   {
     "title": "OSHA's 2022 Heat Illness Rule Caught Most Contractors Off Guard",
@@ -229,7 +233,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Contractor Vetting"
   },
   {
     "title": "Why That Oversized Furnace Is Wrecking Your Remodel Comfort",
@@ -247,7 +252,8 @@
     "posted_iso": "2026-07-13",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Contractor Vetting"
   },
   {
     "title": "The Climate Law That Just Rewrote Every Renovation Budget",
@@ -266,7 +272,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Budget & Costs"
   },
   {
     "title": "What a General Contractor Actually Does, and When You Can Skip One",
@@ -283,7 +290,8 @@
     "posted_iso": "2026-07-15",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Contractor Vetting"
   },
   {
     "title": "Lumber Sat Still While My Panel Bill Doubled",
@@ -301,7 +309,8 @@
     "posted_iso": "2026-07-20",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Budget & Costs"
   },
   {
     "title": "The 2021 Energy Code Just Became Federal Policy, and Builders Are Furious",
@@ -321,6 +330,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Planning & Permits"
   }
 ]
