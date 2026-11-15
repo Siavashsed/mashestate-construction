@@ -332,5 +332,43 @@
       "en"
     ],
     "category": "Planning & Permits"
+  },
+  {
+    "title": "The 19 Percent Rule I Learned Tearing Out a Moldy Bathroom Wall",
+    "slug": "moisture-mold-check-before-closing-walls",
+    "meta_description": "Check for moisture and mold behind the walls before you close them up: meter readings, pressure tests and flood tests from a contractor who paid to learn.",
+    "date": "November 15, 2026",
+    "date_iso": "2026-11-15",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/8487997/pexels-photo-8487997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "epa.gov",
+      "nap.nationalacademies.org",
+      "iaqscience.lbl.gov"
+    ],
+    "posted_iso": "2026-11-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The $1,200 Tax Credit Reset That Changed My 2023 Bids",
+    "slug": "25c-energy-credit-2023-contractor-view",
+    "meta_description": "In 2023 the new 25C energy credit reset every January. A contractor and landlord on what it paid, where it fell short, and how it changed bidding.",
+    "date": "November 12, 2023",
+    "date_iso": "2023-11-12",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/10316614/pexels-photo-10316614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "irs.gov",
+      "energystar.gov",
+      "ahrinet.org",
+      "rewiringamerica.org"
+    ],
+    "posted_iso": "2026-11-15",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
