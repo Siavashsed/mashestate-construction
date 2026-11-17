@@ -388,5 +388,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Living Through a Renovation Means Fighting Dust Before Deadlines",
+    "slug": "living-through-renovation-protect-home-health",
+    "meta_description": "A contractor's honest plan for living through a renovation: seal the dust, test for lead first, keep one room working and write your limits into the contract.",
+    "date": "November 17, 2026",
+    "date_iso": "2026-11-17",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/7217954/pexels-photo-7217954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "epa.gov",
+      "cdc.gov",
+      "osha.gov"
+    ],
+    "posted_iso": "2026-11-17",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
