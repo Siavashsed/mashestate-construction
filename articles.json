@@ -406,5 +406,24 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Attic Hatch Pays Back Faster Than Any Solar Panel You'll Buy",
+    "slug": "energy-upgrades-fastest-payback-renovation",
+    "meta_description": "A contractor and landlord ranks the energy efficient renovation upgrades that pay back fastest, from air sealing to heat pump water heaters.",
+    "date": "November 18, 2026",
+    "date_iso": "2026-11-18",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/35660461/pexels-photo-35660461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "energystar.gov",
+      "eia.gov",
+      "energy.gov",
+      "irs.gov"
+    ],
+    "posted_iso": "2026-11-18",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
