@@ -425,5 +425,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "My Cheapest Contractor Bid Ended Up Costing Me $11,000 More",
+    "slug": "hire-contractor-without-getting-burned",
+    "meta_description": "How to hire a contractor without getting burned: verify the license, read bids for what's missing, and tie every payment to finished work.",
+    "date": "November 19, 2026",
+    "date_iso": "2026-11-19",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "consumerfed.org",
+      "consumer.ftc.gov",
+      "cslb.ca.gov"
+    ],
+    "posted_iso": "2026-11-19",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
