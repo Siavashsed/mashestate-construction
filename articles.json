@@ -443,5 +443,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Renovation Estimate Is Wrong. Budget For That Instead.",
+    "slug": "renovation-cost-estimates-always-wrong",
+    "meta_description": "Renovation cost estimates miss because of what's behind the walls, not bad math. A contractor and landlord explains how to plan a budget that survives.",
+    "date": "November 20, 2026",
+    "date_iso": "2026-11-20",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/8186473/pexels-photo-8186473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "arxiv.org",
+      "houzz.com",
+      "epa.gov"
+    ],
+    "posted_iso": "2026-11-20",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
