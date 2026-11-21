@@ -461,5 +461,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Most Homeowners Over-Permit Cosmetic Work and Under-Permit the Scary Stuff",
+    "slug": "building-permits-what-needs-one",
+    "meta_description": "Building permits: what requires one and what doesn't. A contractor's plain rules for structure, wiring, plumbing, decks and the jobs you can skip.",
+    "date": "November 21, 2026",
+    "date_iso": "2026-11-21",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/12484142/pexels-photo-12484142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "codes.iccsafe.org",
+      "census.gov"
+    ],
+    "posted_iso": "2026-11-21",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
