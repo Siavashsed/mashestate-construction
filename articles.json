@@ -478,5 +478,39 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Remote Construction Management Fails at the Phone Call, Not the Software",
+    "slug": "remote-construction-management-rules",
+    "meta_description": "Managing a construction project remotely works if you hire one trusted set of eyes on site, demand daily photo proof, and pay only for verified progress.",
+    "date": "November 22, 2026",
+    "date_iso": "2026-11-22",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/6474506/pexels-photo-6474506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "iccsafe.org"
+    ],
+    "posted_iso": "2026-11-22",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Silica Dust Rules Finally Got Teeth on My Job Sites This Year",
+    "slug": "osha-silica-rule-2019-contractor-reality",
+    "meta_description": "OSHA's silica rule stopped being a paper threat in 2019. Here's what inspectors cited, what it cost one contractor, and what to change on your sites now.",
+    "date": "June 15, 2019",
+    "date_iso": "2019-06-15",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/4329221/pexels-photo-4329221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "osha.gov"
+    ],
+    "posted_iso": "2026-11-22",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
