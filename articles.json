@@ -529,5 +529,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The Cheapest Bid Is Usually the Most Expensive One You'll Get",
+    "slug": "read-construction-bid-red-flags",
+    "meta_description": "Learn to read a construction bid line by line, from vague allowances to deposit traps, and spot the red flags before you sign anything.",
+    "date": "November 24, 2026",
+    "date_iso": "2026-11-24",
+    "author": "Alex Morrison",
+    "image": "https://images.pexels.com/photos/8470830/pexels-photo-8470830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "mckinsey.com",
+      "cslb.ca.gov",
+      "consumer.ftc.gov"
+    ],
+    "posted_iso": "2026-11-24",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
