@@ -547,5 +547,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Tile Before Wiring Cost Me $4,200. Here's the Right Order",
+    "slug": "renovation-order-avoid-rework",
+    "meta_description": "The renovation order that avoids expensive rework: hazards, demo, rough-in, inspections, drywall, finishes. A contractor-landlord explains the sequence and why.",
+    "date": "November 25, 2026",
+    "date_iso": "2026-11-25",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/40701234/pexels-photo-40701234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "fmicorp.com",
+      "epa.gov"
+    ],
+    "posted_iso": "2026-11-25",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
