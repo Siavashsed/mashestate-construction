@@ -581,5 +581,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Six-Week Remodel Is Really a Five-Month Project",
+    "slug": "realistic-renovation-timeline",
+    "meta_description": "A realistic renovation timeline from a contractor who also owns rentals: what takes weeks, what takes months, and where the schedule really slips.",
+    "date": "November 27, 2026",
+    "date_iso": "2026-11-27",
+    "author": "Tom Mash",
+    "image": "https://images.pexels.com/photos/10117741/pexels-photo-10117741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "houzz.com",
+      "epa.gov",
+      "nahb.org"
+    ],
+    "posted_iso": "2026-11-27",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
